@@ -1,0 +1,6 @@
+ref,rfq,buyer,subject,decision,subtotal_usd,blended_margin,questions,lines
+Q-3101,RFQ-3101,Atlas Marine Fabrication,"RFQ: stainless sheet, bar + pipe for hull job 22-118",auto_execute,8717.22,0.1735,0,4
+Q-3102,RFQ-3102,Kestrel Food Equipment,Q4 contract buy: stainless sheet + bar (see sheet),escalate,16778.38,0.0303,0,3
+Q-3103,RFQ-3103,Northstar Defense Systems,"RFQ 7781-B · DFARS material, MTRs required",escalate,10641.34,0.1736,0,3
+Q-3104,RFQ-3104,Brighton HVAC Supply,need pricing asap,clarify,512.6,0.2345,3,4
+Q-3105,RFQ-3105,Delta Process Controls,RFQ-DPC-2209.pdf (procurement portal export),escalate,3066.54,0.1736,0,2
